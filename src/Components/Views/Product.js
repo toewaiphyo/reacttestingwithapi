@@ -23,7 +23,7 @@ function Product() {
                 </div>
                 
             </div>
-       </div >
+       
     }
     return (
         { content }
